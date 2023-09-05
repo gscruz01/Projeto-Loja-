@@ -403,8 +403,11 @@ public class Loja {
                 }
 
                 break;
-            }
 
+            }
+            sc.close();
         }
+
     }
+
 }
